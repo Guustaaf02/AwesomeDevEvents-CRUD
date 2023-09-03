@@ -19,5 +19,5 @@ Certifique-se de ter o seguinte instalado:
 - .NET SDK 7.0
 - IDE de desenvolvimento (Visual Studio, Visual Studio Code, etc.)
 
-##Contribuições
+## Contribuições
 - Se você também está começando ou se tem alguma sugestão para melhorar este projeto, sinta-se à vontade para compartilhar suas ideias. Contribuições são bem-vindas!
